@@ -1,0 +1,9 @@
+{
+	"name": "anjandfproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b61c3c32-88e5-43c2-ba00-bf9fda0acdf1",
+		"tenantId": "b09cbeac-bfba-4ced-a85c-77742ffdd745"
+	}
+}
